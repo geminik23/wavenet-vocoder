@@ -1,0 +1,9 @@
+torch
+torchaudio
+numpy
+librosa
+python-dotenv
+soundfile
+seaborn
+tqdm
+pandas
