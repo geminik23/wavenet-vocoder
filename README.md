@@ -1,5 +1,5 @@
 # WaveNet vocoder
-This project is a PyTorch implementation of conditional WaveNet from original paper[1]. This model synthesize speech waveform from mel-spectrogram as local conditions.
+This project is a PyTorch implementation of conditional WaveNet from original paper [[1]](#references). This model synthesize speech waveform from mel-spectrogram as local conditions.
 
 
 ## References
